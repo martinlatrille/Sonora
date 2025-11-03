@@ -3,6 +3,10 @@
   "displayName": "Sonora",
   "description": "A modern, dark color scheme with calming tones.",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/consioAi/sonora"
+  },
   "engines": {
     "vscode": "^1.105.0"
   },
