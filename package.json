@@ -16,6 +16,11 @@
   "contributes": {
     "themes": [
       {
+        "label": "Sonora Clear Channel",
+        "uiTheme": "light",
+        "path": "./themes/sonora-clear-channel.json"
+      },
+      {
         "label": "Sonora Tides",
         "uiTheme": "vs-dark",
         "path": "./themes/sonora-tides.json"
