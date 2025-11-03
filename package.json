@@ -1,0 +1,26 @@
+{
+  "name": "sonora",
+  "displayName": "Sonora",
+  "description": "A modern, dark color scheme with calming tones.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.105.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Sonora Tides",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sonora-tides.json"
+      },
+      {
+        "label": "Sonora Deep Signal",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sonora-deep-signal.json"
+      }
+    ]
+  }
+}
