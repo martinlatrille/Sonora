@@ -16,11 +16,6 @@
   "contributes": {
     "themes": [
       {
-        "label": "Sonora Clear Channel",
-        "uiTheme": "light",
-        "path": "./themes/sonora-clear-channel.json"
-      },
-      {
         "label": "Sonora Tides",
         "uiTheme": "vs-dark",
         "path": "./themes/sonora-tides.json"
@@ -28,7 +23,17 @@
       {
         "label": "Sonora Deep Signal",
         "uiTheme": "vs-dark",
-        "path": "./themes/sonora-deep-signal.json"
+        "path": "./themes/sonora-deep-signal-v0_2.json"
+      },
+      {
+        "label": "Sonora Deep Signal (midvibrant)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sonora-deep-signal-v0_2-midvibrant.json"
+      },
+      {
+        "label": "Sonora Deep Signal (vibrant)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sonora-deep-signal-v0_2-vibrant.json"
       }
     ]
   }
