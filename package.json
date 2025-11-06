@@ -3,8 +3,11 @@
   "name": "sonora",
   "displayName": "Sonora",
   "description": "A modern, dark color scheme with calming tones.",
-  "version": "0.0.3",
-  "icon": "icon.png",
+  "version": "0.0.5",
+  "icon": "./icon.png",
+  "galleryBanner": {
+    "color": "#1d2025"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/martinlatrille/Sonora"
