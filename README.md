@@ -55,7 +55,7 @@ Install the extension from a Marketplace:
 
 ### Manual Installation
 
-Download the VSIX from [the latest GitHub release](https://github.com/consioAi/sonora/releases/latest). Open the Command Palette (`Cmd+Shift+P` / `Ctrl+Shift+P`) and select "Extensions: Install from VSIX...", then open the file you just downloaded.
+Download the VSIX from [the latest GitHub release](https://github.com/martinlatrille/sonora/releases/latest). Open the Command Palette (`Cmd+Shift+P` / `Ctrl+Shift+P`) and select "Extensions: Install from VSIX...", then open the file you just downloaded.
 
 ### Activating the Theme
 
@@ -86,7 +86,7 @@ For the best experience with Sonora, we recommend the following settings in your
 
 If you have any questions, suggestions, or encounter issues, please feel free to:
 
-- [Open an issue](https://github.com/consioAi/sonora/issues) on GitHub
+- [Open an issue](https://github.com/martinlatrille/sonora/issues) on GitHub
 - Contribute improvements via pull requests
 
 ## Development
@@ -102,4 +102,4 @@ See [LICENSE.md](LICENSE.md) for more information.
 
 ---
 
-<p align="center">Copyright &copy; 2024-present <a href="https://github.com/consioAi" target="_blank">Consio</a></p>
+<p align="center">Copyright &copy; 2024-present <a href="https://github.com/martinlatrille" target="_blank">martinlatrille</a></p>
