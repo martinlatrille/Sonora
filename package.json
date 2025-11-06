@@ -18,7 +18,7 @@
       {
         "label": "Sonora Tides",
         "uiTheme": "vs-dark",
-        "path": "./themes/sonora-tides.json"
+        "path": "./themes/sonora-tides-v0_2.json"
       },
       {
         "label": "Sonora Deep Signal",
