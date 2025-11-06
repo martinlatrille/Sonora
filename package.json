@@ -6,7 +6,7 @@
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "https://github.com/consioAi/sonora"
+    "url": "https://github.com/martinlatrille/Sonora"
   },
   "engines": {
     "vscode": "^1.105.0"
@@ -30,6 +30,11 @@
         "label": "Sonora Deep Signal (vibrant)",
         "uiTheme": "vs-dark",
         "path": "./themes/sonora-deep-signal-vibrant.json"
+      },
+      {
+        "label": "Sonora Deep Signal (faded)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sonora-deep-signal-faded.json"
       }
     ]
   }
