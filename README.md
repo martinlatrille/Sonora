@@ -7,12 +7,12 @@
 
 <p align="center">
   <strong>A modern, dark color scheme with calming tones.</strong><br/>
-  Inspired by space, the ocean, and soundwaves.
+  Inspired by space and waves.
 </p>
 
 ## About
 
-Sonora is a carefully crafted color scheme for Visual Studio Code that brings together soothing, tranquil pastel color of <a href="https://github.com/catppuccin">Catppuccin</a> with neutral background colors of <a href="https://github.com/atom/atom/tree/master/packages/one-dark-syntax">Atom One Dark</a>. Designed for extended coding sessions, Sonora offers a soothing visual experience that reduces eye strain while maintaining excellent code readability.
+Sonora is a carefully crafted color scheme for Visual Studio Code inspire by space and waves. Designed for extended coding sessions, Sonora offers a soothing visual experience that reduces eye strain while maintaining excellent code readability.
 
 ## Variants
 
