@@ -1,15 +1,9 @@
+<h1 align="center">
+	📡
+</h1>
 <h3 align="center">
-	📡<br/>
-	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 	Sonora for <a href="https://code.visualstudio.com">VSCode</a>
-	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
-
-<p align="center">
-    <a href="https://github.com/consioAi/sonora/stargazers"><img src="https://img.shields.io/github/stars/consioAi/sonora?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-    <a href="https://github.com/consioAi/sonora/issues"><img src="https://img.shields.io/github/issues/consioAi/sonora?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-    <a href="https://github.com/consioAi/sonora/contributors"><img src="https://img.shields.io/github/contributors/consioAi/sonora?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
-</p>
 
 <p align="center">
   <strong>A modern, dark color scheme with calming tones.</strong><br/>
@@ -18,7 +12,7 @@
 
 ## About
 
-Sonora is a carefully crafted color scheme for Visual Studio Code that brings together the tranquility of deep space, the rhythm of ocean tides, and the harmony of soundwaves. Designed for extended coding sessions, Sonora offers a soothing visual experience that reduces eye strain while maintaining excellent code readability.
+Sonora is a carefully crafted color scheme for Visual Studio Code that brings together soothing, tranquil pastel color of <a href="https://github.com/catppuccin">Catppuccin</a> with neutral background colors of <a href="https://github.com/atom/atom/tree/master/packages/one-dark-syntax">Atom One Dark</a>. Designed for extended coding sessions, Sonora offers a soothing visual experience that reduces eye strain while maintaining excellent code readability.
 
 ## Variants
 
