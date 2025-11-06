@@ -4,7 +4,7 @@
   "displayName": "Sonora",
   "description": "A modern, dark color scheme with calming tones.",
   "version": "0.0.5",
-  "icon": "./icon.png",
+  "icon": "icon.png",
   "galleryBanner": {
     "color": "#1d2025"
   },
