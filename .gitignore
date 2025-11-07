@@ -1,4 +1,5 @@
-.vscode
+.vscode/settings.json
+.mypy_cache
 node_modules
 *.vsix
 .env

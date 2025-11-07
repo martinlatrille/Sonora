@@ -787,6 +787,13 @@
       }
     },
     {
+      "name": "C++ doc keywords",
+      "scope": "storage.type.class.doxygen",
+      "settings": {
+        "fontStyle": ""
+      }
+    },
+    {
       "name": "C++ scope resolution",
       "scope": [
         "entity.name.scope-resolution.template.call.cpp",
@@ -953,6 +960,13 @@
       }
     },
     {
+      "name": "Object properties",
+      "scope": "meta.property.object",
+      "settings": {
+        "foreground": "#7FDCCD"
+      }
+    },
+    {
       "name": "Exported Variable",
       "scope": "meta.export variable.other.readwrite.js",
       "settings": {
@@ -1081,6 +1095,13 @@
       }
     },
     {
+      "name": "JSDoc keywords",
+      "scope": "storage.type.class.jsdoc",
+      "settings": {
+        "fontStyle": ""
+      }
+    },
+    {
       "name": "JSON/YAML constants",
       "scope": [
         "constant.language.json",
@@ -1119,6 +1140,13 @@
       "scope": "storage.modifier.import.java",
       "settings": {
         "foreground": "#D9DCE8"
+      }
+    },
+    {
+      "name": "Javadoc",
+      "scope": "comment.block.javadoc.java keyword.other.documentation.javadoc.java",
+      "settings": {
+        "fontStyle": ""
       }
     },
     {
@@ -1289,6 +1317,13 @@
       }
     },
     {
+      "name": "Quarto headings",
+      "scope": "markup.heading.quarto",
+      "settings": {
+        "fontStyle": "bold"
+      }
+    },
+    {
       "name": "Markup Diff",
       "scope": "markup.changed.diff",
       "settings": {
@@ -1392,6 +1427,13 @@
       }
     },
     {
+      "name": "PHPdoc keywords",
+      "scope": "keyword.other.phpdoc.php",
+      "settings": {
+        "fontStyle": ""
+      }
+    },
+    {
       "name": "Parentheses, Brackets, Braces",
       "scope": "punctuation",
       "settings": {
@@ -1488,6 +1530,13 @@
       "settings": {
         "foreground": "#93DD8D",
         "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Python type hints",
+      "scope": "meta.function.parameters.python",
+      "settings": {
+        "fontStyle": ""
       }
     },
     {
@@ -1602,6 +1651,16 @@
       "settings": {
         "foreground": "#F7D997",
         "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Rust attribute strings",
+      "scope": [
+        "meta.attribute.rust string.quoted.double.rust",
+        "meta.attribute.rust string.quoted.single.char.rust"
+      ],
+      "settings": {
+        "fontStyle": ""
       }
     },
     {
@@ -1877,6 +1936,13 @@
       }
     },
     {
+      "name": "`new` as bold",
+      "scope": "keyword.operator.new",
+      "settings": {
+        "fontStyle": "bold"
+      }
+    },
+    {
       "name": "Type parameters",
       "scope": "punctuation.definition.typeparameters",
       "settings": {
@@ -2039,7 +2105,16 @@
     },
     {
       "name": "keyword",
-      "scope": "keyword",
+      "scope": [
+        "keyword",
+        "keyword.operator.word",
+        "keyword.operator.new",
+        "variable.language.super",
+        "support.type.primitive",
+        "storage.type",
+        "storage.modifier",
+        "punctuation.definition.keyword"
+      ],
       "settings": {
         "foreground": "#BD8FF5"
       }
@@ -2160,7 +2235,10 @@
     },
     {
       "name": "string",
-      "scope": "string",
+      "scope": [
+        "string",
+        "punctuation.definition.string"
+      ],
       "settings": {
         "foreground": "#93DD8D"
       }
