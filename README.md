@@ -1,6 +1,6 @@
-<h1 align="center">
+<h3 align="center">
 	📡
-</h1>
+</h3>
 <h3 align="center">
 	Sonora for <a href="https://code.visualstudio.com">VSCode</a>
 </h3>
